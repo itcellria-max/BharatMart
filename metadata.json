@@ -1,0 +1,6 @@
+{
+  "name": "BharatMart ERP & POS - Supermarket & Kirana Management System",
+  "description": "Complete, secure, production-ready Supermarket & Kirana Store Management System with real-time POS billing, GST compliance, inventory, digital Khata, multi-counter sync, and staff management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
